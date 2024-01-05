@@ -1,4 +1,4 @@
-Solutions for the advent of code 2023. Mainly for fun and to learn some new languages. 
+Solutions for the advent of code 2023. Mainly for fun and to learn some new languages. On my end I will be using only vim/nvim as the editor to write the solutions to help me learn the ecosystem and switch from VSCode reliance. I will still keep using VSCode for Jupyter notebooks.
 © 2023 Baljyot Singh Parmar
 
 In each folder there is a `README.md` file with a description of the solution and how to run it.

@@ -4,8 +4,9 @@ Solutions for the advent of code 2023. Mainly for fun and to learn some new lang
 In each folder there is a `README.md` file with a description of the solution and how to run it.
 ## Languages
 - Python
+- C
 - C++
-
+- Golang
 ## Days 
 ###### (check boxes are for my reference indicating if I have completed the day or not)
 - [ ] Day 1

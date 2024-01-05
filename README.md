@@ -5,7 +5,6 @@ In each folder there is a `README.md` file with a description of the solution an
 ## Languages
 - Python
 - C
-- C++
 - Golang
 ## Days 
 ###### (check boxes are for my reference indicating if I have completed the day or not)
